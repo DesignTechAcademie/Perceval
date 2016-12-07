@@ -1,6 +1,6 @@
 
 body {
-
+/*Image de fond*/
 background-image:url(White-Background-Iphone-Pics-1.jpg);
 background-size: cover;
 }
@@ -13,9 +13,5 @@ background-size: cover;
   background-color: #5813BD;
   margin: auto;
   margin-top: 26px;
-  /*position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;*/
+
 }
