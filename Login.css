@@ -1,6 +1,10 @@
 
 body {
+<<<<<<< HEAD
 /*Image de fond*/
+=======
+
+>>>>>>> 1cf93e76572e478f24bdee77b289e457869a4de8
 background-image:url(White-Background-Iphone-Pics-1.jpg);
 background-size: cover;
 }
@@ -13,5 +17,13 @@ background-size: cover;
   background-color: #5813BD;
   margin: auto;
   margin-top: 26px;
+<<<<<<< HEAD
 
+=======
+  /*position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;*/
+>>>>>>> 1cf93e76572e478f24bdee77b289e457869a4de8
 }
