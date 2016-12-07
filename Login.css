@@ -9,14 +9,36 @@ background-size: cover;
   border-radius: 46px;
   width: 400px;
   height: 200px;
-  background-color: #5813BD;
+  background-color: #E66D55;
   margin: auto;
-  margin-top: 26px;
+  margin-top: 200px;
+}
 
-  /*position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;*/
+li{
+display: inline-block;
+cursor: pointer;
+line-height: 60px;
+}
 
+li #nom, #mdp {
+    border-radius: 15px;
+    background-color:none;
+    box-shadow: 0 2px #999;
+    text-align: center;
+    cursor:auto;
+}
+
+#submit{
+display: inline-block;
+ padding: 15px 25px;
+ font-size: 24px;
+ cursor: pointer;
+ text-align: center;
+ text-decoration: none;
+ outline: none;
+ color: #fff;
+ background-color: #4CAF50;
+ border: none;
+ border-radius: 15px;
+ box-shadow: 0 9px #999;
 }
