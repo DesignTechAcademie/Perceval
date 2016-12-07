@@ -1,0 +1,21 @@
+
+body {
+
+background-image:url(White-Background-Iphone-Pics-1.jpg);
+background-size: cover;
+}
+
+#typefeuille{
+  border: 3px solid black;
+  border-radius: 46px;
+  width: 400px;
+  height: 200px;
+  background-color: #5813BD;
+  margin: auto;
+  margin-top: 26px;
+  /*position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;*/
+}
